@@ -1,0 +1,6 @@
+{
+  "name": "سوبر ماركت إكسبريس - كود أندرويد متكامل Java & XML",
+  "description": "تطبيق أندرويد متكامل وشامل لسوبر ماركت بتقنية Java و XML ومعمارية MVVM و Room Database مع معاينة حية وتنزيل المشروع كاملاً ZIP لـ AIDE و Android Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
